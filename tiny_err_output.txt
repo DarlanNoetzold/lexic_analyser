@@ -1,0 +1,35 @@
+On Code Line: 3 - oken type: TOKEN_UNKNOWN, Value: : [
+ERROR ON LENGHT: Token type: TOKEN_ALPHANUMERIC_CONSTANT, Value: 
+if 0 < i then
+    s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
