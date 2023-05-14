@@ -1,0 +1,252 @@
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_IDENTIFIER, Value: x
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_IDENTIFIER, Value: y
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_SPECIAL, Value: !
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_IDENTIFIER, Value: y
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_SPECIAL, Value: !
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_IDENTIFIER, Value: y
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_SPECIAL, Value: !
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_IDENTIFIER, Value: y
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_SPECIAL, Value: !
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_IDENTIFIER, Value: y
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_SPECIAL, Value: !
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_IDENTIFIER, Value: y
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_SPECIAL, Value: !
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_IDENTIFIER, Value: y
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_SPECIAL, Value: !
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_IDENTIFIER, Value: y
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_SPECIAL, Value: !
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_IDENTIFIER, Value: y
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_SPECIAL, Value: !
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_IDENTIFIER, Value: y
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_SPECIAL, Value: !
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_NUMERIC_CONSTANT, Value: 0
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_RESERVED_WORD, Value: while
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_NUMERIC_CONSTANT, Value: 0
+Token type: TOKEN_RESERVED_WORD, Value: do
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_ARITHMETIC_OPERATOR, Value: +
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: done
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: output
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_NUMERIC_CONSTANT, Value: 0
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_RESERVED_WORD, Value: while
+Token type: TOKEN_NUMERIC_CONSTANT, Value: 0
+Token type: TOKEN_COMPARISON_OPERATOR, Value: <
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_RESERVED_WORD, Value: do
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_ARITHMETIC_OPERATOR, Value: +
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: done
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: output
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_NUMERIC_CONSTANT, Value: 0
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_RESERVED_WORD, Value: while
+Token type: TOKEN_NUMERIC_CONSTANT, Value: 0
+Token type: TOKEN_COMPARISON_OPERATOR, Value: <
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_RESERVED_WORD, Value: do
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_ARITHMETIC_OPERATOR, Value: +
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: done
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: output
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_NUMERIC_CONSTANT, Value: 0
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_RESERVED_WORD, Value: while
+Token type: TOKEN_NUMERIC_CONSTANT, Value: 0
+Token type: TOKEN_COMPARISON_OPERATOR, Value: <
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_RESERVED_WORD, Value: do
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_ARITHMETIC_OPERATOR, Value: +
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: i
+Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+Token type: TOKEN_RESERVED_WORD, Value: read
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: done
+Token type: TOKEN_SEMICOLON, Value: ;
+Token type: TOKEN_IDENTIFIER, Value: output
+Token type: TOKEN_IDENTIFIER, Value: sum
+Token type: TOKEN_SEMICOLON, Value: ;
+On Code Line: 1 - Token type: TOKEN_IDENTIFIER, Value: sum
+On Code Line: 1 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 1 - Token type: TOKEN_ASSIGNMENT, Value: :=
+On Code Line: 1 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 1 - Token type: TOKEN_NUMERIC_CONSTANT, Value: 0
+On Code Line: 1 - Token type: TOKEN_DELIMITER, Value: ;
+On Code Line: 2 - Token type: TOKEN_DELIMITER, Value: 
+
+On Code Line: 2 - Token type: TOKEN_RESERVED_WORD, Value: read
+On Code Line: 2 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 2 - Token type: TOKEN_IDENTIFIER, Value: x
+On Code Line: 2 - Token type: TOKEN_DELIMITER, Value: ;
+On Code Line: 3 - Token type: TOKEN_DELIMITER, Value: 
+
+On Code Line: 3 - Token type: TOKEN_DELIMITER, Value: 
+
+On Code Line: 3 - Token type: TOKEN_IDENTIFIER, Value: epeat
+On Code Line: 4 - Token type: TOKEN_DELIMITER, Value: 
+
+On Code Line: 4 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 4 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 4 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 4 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 4 - Token type: TOKEN_IDENTIFIER, Value: sum
+On Code Line: 4 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 4 - Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+On Code Line: 4 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 4 - Token type: TOKEN_IDENTIFIER, Value: sum
+On Code Line: 4 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 4 - Token type: TOKEN_ARITHMETIC_OPERATOR, Value: +
+On Code Line: 4 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 4 - Token type: TOKEN_IDENTIFIER, Value: i
+On Code Line: 4 - Token type: TOKEN_DELIMITER, Value: ;
+On Code Line: 5 - Token type: TOKEN_DELIMITER, Value: 
+
+On Code Line: 5 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 5 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 5 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 5 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 5 - Token type: TOKEN_RESERVED_WORD, Value: read
+On Code Line: 5 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 5 - Token type: TOKEN_IDENTIFIER, Value: i
+On Code Line: 5 - Token type: TOKEN_DELIMITER, Value: ;
+On Code Line: 6 - Token type: TOKEN_DELIMITER, Value: 
+
+On Code Line: 6 - Token type: TOKEN_RESERVED_WORD, Value: until
+On Code Line: 6 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 6 - Token type: TOKEN_NUMERIC_CONSTANT, Value: 0
+On Code Line: 6 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 6 - Token type: TOKEN_SPECIAL, Value: !
+On Code Line: 6 - Token type: TOKEN_COMPARISON_OPERATOR, Value: <
+On Code Line: 6 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 6 - Token type: TOKEN_IDENTIFIER, Value: i
+On Code Line: 6 - Token type: TOKEN_DELIMITER, Value: ;
+On Code Line: 7 - Token type: TOKEN_DELIMITER, Value: 
+
+On Code Line: 8 - Token type: TOKEN_DELIMITER, Value: 
+
+On Code Line: 8 - Token type: TOKEN_RESERVED_WORD, Value: write
+On Code Line: 8 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 8 - Token type: TOKEN_IDENTIFIER, Value: sum
+On Code Line: 8 - Token type: TOKEN_DELIMITER, Value: ;
+On Code Line: 9 - Token type: TOKEN_DELIMITER, Value: 
+
+On Code Line: 9 - Token type: TOKEN_ALPHANUMERIC_CONSTANT, Value: "
+if 0 < i then
+    s"
+On Code Line: 9 - Token type: TOKEN_IDENTIFIER, Value: m
+On Code Line: 9 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 9 - Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+On Code Line: 9 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 9 - Token type: TOKEN_IDENTIFIER, Value: sum
+On Code Line: 9 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 9 - Token type: TOKEN_ARITHMETIC_OPERATOR, Value: +
+On Code Line: 9 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 9 - Token type: TOKEN_NUMERIC_CONSTANT, Value: 3
+On Code Line: 9 - Token type: TOKEN_DELIMITER, Value: ;
+On Code Line: 10 - Token type: TOKEN_DELIMITER, Value: 
+
+On Code Line: 10 - Token type: TOKEN_RESERVED_WORD, Value: else
+On Code Line: 10 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 10 - Token type: TOKEN_RESERVED_WORD, Value: then
+On Code Line: 11 - Token type: TOKEN_DELIMITER, Value: 
+
+On Code Line: 11 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 11 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 11 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 11 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 11 - Token type: TOKEN_IDENTIFIER, Value: sum
+On Code Line: 11 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 11 - Token type: TOKEN_COMPARISON_OPERATOR, Value: =
+On Code Line: 11 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 11 - Token type: TOKEN_IDENTIFIER, Value: sum
+On Code Line: 11 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 11 - Token type: TOKEN_ARITHMETIC_OPERATOR, Value: +
+On Code Line: 11 - Token type: TOKEN_DELIMITER, Value:  
+On Code Line: 11 - Token type: TOKEN_NUMERIC_CONSTANT, Value: 5
+On Code Line: 11 - Token type: TOKEN_DELIMITER, Value: ;
+On Code Line: 12 - Token type: TOKEN_DELIMITER, Value: 
+
+On Code Line: 12 - Token type: TOKEN_RESERVED_WORD, Value: end
