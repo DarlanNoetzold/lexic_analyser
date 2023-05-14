@@ -1,0 +1,14 @@
+sum := 0;
+read x;
+repeat [
+    sum = sum + i;
+    read i;
+until 0 !< i;
+
+write sum;
+"
+if 0 < i then
+    sum = sum + 3;
+else then
+    sum = sum + 5;
+end
